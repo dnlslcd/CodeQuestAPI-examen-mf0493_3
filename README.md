@@ -4,15 +4,15 @@
 
 Ejecuta el siguiente comando de git para clonar este repositorio:
 
-`/** fill me */`
+`git clone` + la URL del repositorio.
 
 Luego instala las dependencias con el siguiente comando de npm:
 
-`/** fill me */`
+`npm install` o `npm i`
 
 Para levantar el servidor ejecuta el siguiente comando de npm:
 
-`/** fill me */`
+`npm start`
 
 ## Setup de la base de datos
 
